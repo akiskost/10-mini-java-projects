@@ -59,5 +59,6 @@ b) dividing the sum with an encryption key.
 The message ends with the symbol #.
 
 **Project 10**
+
 A theatre seat management program. Each seat has a row letter and a numner.
 Can book or cancel a seat.
